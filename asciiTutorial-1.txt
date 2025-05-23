@@ -1,0 +1,9 @@
+Each day you will get a main menu, to navigate to the option press the number in the title (for example family menu is 1)
+Your family has a decreasing hunger bar, if it reaches 0 they die.
+To feed them you can buy them food from the market.
+To check up on them enter the family menu.
+To see how much money you have enter the money menu.
+To make money you can do a job, if you do good you will be paid well.
+Each time you pick a job a day will pass and your  family will get hungry.
+If they starve you lose.
+MAKE 200$ BEFORE THE MONTH ENDS GOOD LUCK!
